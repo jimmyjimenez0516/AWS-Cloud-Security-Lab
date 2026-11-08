@@ -6,7 +6,7 @@ This is the third lab in my security engineering series. It builds on my [Home S
 
 ## Why I built this
 
-My day job is physical security technology: cameras, access control, and the platforms behind them across 15 global offices. More and more of that stack runs in the cloud. Access control is cloud-managed, and our device-health platform runs on AWS EC2. Securing physical security systems now means knowing how to secure the cloud they sit on, so I wanted real hands-on time with AWS detection and response.
+My day job is physical security technology: cameras, access control, and the platforms behind them across offices globally. More and more of that stack runs in the cloud. Access control is cloud-managed, and our device-health platform runs on AWS EC2. Securing physical security systems now means knowing how to secure the cloud they sit on, so I wanted real hands-on time with AWS detection and response.
 
 ## Architecture
 
